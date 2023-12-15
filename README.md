@@ -1,9 +1,8 @@
-# Lab 7
+# Lab 7 Homework
+---------------------------------------------------------
+## **Name:** Zarshedjon Nasimov
+## **ID:** 2110058
+-----------------------------------------------------
 
-### You may use the project provided in this repo, or you may use an empty project.
-
-## Tasks
-### 1. Design a ListView in which you have image of a user, First and Last Names as Title, email as subtitle of Listtile;
-### 2. Create a Model that handles JSON data as shown in your Lab presentation file.
-### 3. Make sure the Model you have created is connected to your project and you are using this to handle JSON from: https://randomuser.me/documentation 
-### 4. You are not required to create a Model which contains all the items in the JSON, it is sufficient to handle several only such as gender, name, picture and email.
+In this mobile app, I handled JSON data. I created the user model which can be instantiated using JSON format data.
+Also, in first_screen page I designed a list view to display the list of users with their info.
